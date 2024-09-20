@@ -1,7 +1,7 @@
 👋 Hi, I'm Natalia Trufanova (@nataliyaTruf)
 
 I'm a Swift developer focused on building high-quality iOS applications with simplicity and user experience in mind. 
-I love using the latest technologies and best practices to create efficient solutions.
+I love using the latest technologies and best practices to create efficient solutions
 
 🛠️ **Skills and Competencies:**
 
@@ -17,11 +17,11 @@ I love using the latest technologies and best practices to create efficient solu
 🎬 **About Me:**
 
 In my free time, I enjoy 🎾 playing tennis, 🧘‍♀️ practicing yoga, 🥾 hiking and learning algorithms to sharpen my problem-solving skills. 
-I'm passionate about continuous learning, especially in programming and technology.
+I'm passionate about continuous learning, especially in programming and technology
 
 📫 **How to reach me:** natta.truf@gmail.com
 
-⚡ **Fun Fact:** Before becoming a developer, I worked in the wine industry, which taught me attention to detail and a love for craftsmanship.
+⚡ **Fun Fact:** Before becoming a developer, I worked in the wine industry, which taught me attention to detail and a love for craftsmanship
 
 🌐 **Socials:**
 
