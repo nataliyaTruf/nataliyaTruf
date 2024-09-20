@@ -21,8 +21,6 @@ I'm passionate about continuous learning, especially in programming and technolo
 
 📫 **How to reach me:** natta.truf@gmail.com
 
-⚡ **Fun Fact:** Before becoming a developer, I worked in the wine industry, which taught me attention to detail and a love for craftsmanship
-
 🌐 **Socials:**
 
 - Telegram: @natashaTruf
