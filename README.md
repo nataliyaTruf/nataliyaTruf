@@ -1,7 +1,5 @@
 👋 Hi, I'm Natalia Trufanova (@nataliyaTruf)
 
-![Nataliya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliyaTruf&show_icons=true&theme=chartreuse-dark)
-
 I'm a Swift developer focused on building high-quality iOS applications with simplicity and user experience in mind. 
 I love using the latest technologies and best practices to create efficient solutions
 
